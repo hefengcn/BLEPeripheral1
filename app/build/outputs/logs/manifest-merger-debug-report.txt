@@ -1,0 +1,85 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\hefeng2\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\0feda3d6155faebb714df87770bc382e\AndroidManifest.xml:14:4-17:12
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\hefeng2\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\02d4faabc9820fa10694cae7a888f700\AndroidManifest.xml:14:4-17:12
+INJECTED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml:7:5-47
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\hefeng2\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\0feda3d6155faebb714df87770bc382e\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\hefeng2\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\0feda3d6155faebb714df87770bc382e\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\hefeng2\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\02d4faabc9820fa10694cae7a888f700\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\hefeng2\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\02d4faabc9820fa10694cae7a888f700\AndroidManifest.xml:15:5-42
+INJECTED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml:7:5-47
+	android:targetSdkVersion
+		ADDED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml:7:15-44
+		INJECTED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml
+		ADDED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml:7:5-47
+		INJECTED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml:9:5-69
+	android:name
+		ADDED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml:9:23-66
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml:10:23-72
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml:11:23-77
+application
+ADDED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml:14:5-28:19
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\hefeng2\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\0feda3d6155faebb714df87770bc382e\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\hefeng2\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\0feda3d6155faebb714df87770bc382e\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\hefeng2\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\02d4faabc9820fa10694cae7a888f700\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\hefeng2\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\02d4faabc9820fa10694cae7a888f700\AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml:16:9-45
+	android:allowBackup
+		ADDED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml:18:9-40
+activity#com.example.bleperipheral.MainActivity
+ADDED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml:19:9-27:20
+	android:label
+		ADDED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml:20:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from D:\mycode\BLEPeripheral1\app\src\main\AndroidManifest.xml:25:27-74
